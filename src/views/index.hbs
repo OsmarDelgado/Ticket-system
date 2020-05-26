@@ -1,0 +1,16 @@
+<main id="index">
+    <header class="masthead d-flex">
+        <div class="container text-center my-auto">
+            <h1 class="mb-1">Tickets de carga</h1>
+            <h3 class="mb-5"><em>Guarda tus tickets</em></h3>
+            
+            {{#if user}}
+            <a href="/tickets" class="btn btn-primary">Ver tus tickets</a>
+            <a href="/tickets/add" class="btn btn-primary">Agregar nuevo ticket</a>
+            {{else}}
+            <a href="/login" class="btn btn-primary">Inicia sesión</a>
+            {{/if}}
+            
+        </div>
+    </header>
+</main>

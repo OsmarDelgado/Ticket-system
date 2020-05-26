@@ -1,0 +1,46 @@
+{
+    "name" : "Tickets Nelios",
+    "short_name" : "TicketsNelios",
+    "start_url" : "/",
+    "display" : "standalone",
+    "background_color" : "#aec097",
+    "theme_color" : "#cc141e",
+    "orientation" : "portrait-primary",
+    "icons" : [
+        {
+            "src" : "/img/icons/nelios-48x48.png",
+            "type" : "image/png",
+            "sizes" : "48x48"
+        },
+        
+        {
+            "src" : "/img/icons/nelios-72x72.png",
+            "type" : "image/png",
+            "sizes" : "72x72"
+        },
+
+        {
+            "src" : "/img/icons/nelios-96x96.png",
+            "type" : "image/png",
+            "sizes" : "96x96"
+        },
+
+        {
+            "src" : "/img/icons/nelios-144x144.png",
+            "type" : "image/png",
+            "sizes" : "144x144"
+        },
+
+        {
+            "src" : "/img/icons/nelios-192x192.png",
+            "type" : "image/png",
+            "sizes" : "192x192"
+        },
+
+        {
+            "src" : "/img/icons/nelios-512x512.png",
+            "type" : "image/png",
+            "sizes" : "512x512"
+        }
+    ]
+}
